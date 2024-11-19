@@ -16,7 +16,7 @@ https://github.com/bet-blocker/bet-blocker-api
 https://github.com/bet-blocker/bet-blocker-dns
 
 # Extensão Google Chrome
-https://github.com/bet-blocker/bet-blocker-dns
+https://github.com/bet-blocker/bet-blocker-extension
 
 # Mockup figma
 https://www.figma.com/proto/39D7qGPXeiNISC1aUPmnay/Bloqueador-de-apostas
