@@ -6,6 +6,9 @@
 
 A ideia deste repositório é criar uma solução descentralizada e focada em bloquear e impedir o acesso a sites de apostas e bets. Esse repositorio foi criado para ajudar pessoas que desejam se proteger contra os efeitos nocivos do vício em apostas online, oferecendo uma camada de proteção que limita o acesso a plataformas de jogos de azar.
 
+# Site oficial
+https://github.com/bet-blocker/bet-blocker-website
+
 # Software
 https://github.com/bet-blocker/bet-blocker
 
